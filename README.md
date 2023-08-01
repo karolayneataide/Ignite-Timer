@@ -9,7 +9,7 @@
 
 ## 💻 Projeto
 
-O Ignite Timer é um projeto que permite ao usuário cronometrar as suas tarefas no dia a dia e também visualizar o histórico de todas as tarefas já realizadas.
+O Ignite Timer permite ao usuário cronometrar as suas tarefas no dia a dia e também visualizar o histórico de todas as tarefas já realizadas.
 
 ## 🚀 Technologies
 
