@@ -7,6 +7,8 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
 </p>
 
+![image](https://github.com/karolayneataide/Ignite-Timer/assets/80495195/4300ee59-6b9a-4cad-abe2-386f94ffa09b)
+
 ## 💻 Projeto
 
 O Ignite Timer permite ao usuário cronometrar as suas tarefas no dia a dia e também visualizar o histórico de todas as tarefas já realizadas.
